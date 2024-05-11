@@ -13,9 +13,6 @@ Assign the value of variable to a temporary variable
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
-
-### Step 5: 
-### Step 6: 
 ## Program:
 
 <img width="268" alt="Screenshot 2024-04-03 142834" src="https://github.com/SIVAmech123/Circulate-the-values-of-N-variables/assets/151629067/967eac1f-b574-4285-bbbc-91b456f4dda5">
